@@ -1,0 +1,17 @@
+{
+  "name": "perp-prediction-discord-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for crypto chart analysis",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": ["discord", "bot", "crypto", "trading"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  }
+}
